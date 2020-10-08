@@ -1,0 +1,23 @@
+{
+  "name": "libindy-objc",
+  "version": "1.9.0",
+  "summary": "ObjC wrapper for libindy",
+  "homepage": "https://github.com/hyperledger/indy-sdk.git",
+  "license": {
+    "type": "Apache License 2.0",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Carille Mendoza": "cmend429@mtroyal.ca"
+  },
+  "source": {
+    "http": "https://github.com/carillem/libindy/tree/main/libindy-objc/1.9.0/libindy-objc.zip"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "ios": {
+    "vendored_frameworks": "libindy-objc/Indy.framework"
+  },
+  "module_name": "Indy"
+}

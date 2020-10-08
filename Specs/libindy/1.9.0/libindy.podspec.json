@@ -1,0 +1,23 @@
+{
+  "name": "libindy",
+  "version": "1.9.0",
+  "summary": "Hyperledger Indy Library",
+  "description": "Hyperledger Indy Library (1.9.0)",
+  "homepage": "https://github.com/hyperledger/indy-sdk.git",
+  "license": {
+    "type": "Apache License 2.0",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Carille Mendoza": "cmend429@mtroyal.ca"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "http": "https://github.com/carillem/libindy/tree/main/libindy-core/1.9.0/libindy.tar.gz"
+  },
+  "source_files": "*.h",
+  "vendored_libraries": "*.a",
+  "requires_arc": false
+}
