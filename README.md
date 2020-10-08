@@ -1,1 +1,1 @@
-# libindy podspec
+# Updated Libindy Objc frameworks for ios
