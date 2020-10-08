@@ -11,7 +11,7 @@
     "Carille Mendoza": "cmend429@mtroyal.ca"
   },
   "source": {
-    "http": "https://github.com/carillem/libindy-builds/blob/main/libindy/libindy-objc/1.9.0/libindy-objc.zip"
+    "http": "https://github.com/carillem/libindy-builds/raw/main/libindy/libindy-objc/1.9.0/libindy-objc.zip"
   },
   "platforms": {
     "ios": "10.0"
