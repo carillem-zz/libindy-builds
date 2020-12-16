@@ -1,1 +1,4 @@
-# Updated Libindy Objc frameworks for ios
+# Updated Libindy Objc frameworks for iOS
+
+Versions supported:
+1.9.0
